@@ -1,0 +1,22 @@
+html, body, #root, .room {
+    height: 100%;
+    margin: 0;
+    text-align: center;
+  }
+.theme{
+    padding-top: 20px;
+    font-size: x-large;
+}
+  .lit {
+    background-color: white;
+    color: black;
+  }
+  .dark {
+    background-color: black;
+    color: white;
+  }
+  button{
+    border-radius: 5px;
+    padding-left: 10px;
+    margin: 5px;
+  }
