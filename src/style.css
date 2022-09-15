@@ -1,11 +1,12 @@
-html, body, #root, .room {
-    height: 100%;
-    margin: 0;
+ body{
     text-align: center;
   }
-.theme{
-    padding-top: 20px;
-    font-size: x-large;
+.room,.task{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 50%;
+    margin: auto;
+    padding: 10px 0;
 }
   .lit {
     background-color: white;
@@ -16,7 +17,9 @@ html, body, #root, .room {
     color: white;
   }
   button{
-    border-radius: 5px;
-    padding-left: 10px;
-    margin: 5px;
+    font-size: 20px;
+    border-radius: 15px;
+    padding: 5px 5px;
+    margin: 10px;
+    
   }
