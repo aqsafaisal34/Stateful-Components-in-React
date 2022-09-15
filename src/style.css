@@ -1,5 +1,6 @@
  body{
     text-align: center;
+    background-color:#f6e7ea ;
   }
 .room,.task{
     border: 2px solid black;
@@ -7,6 +8,7 @@
     width: 50%;
     margin: auto;
     padding: 10px 0;
+    background-color: white;
 }
   .lit {
     background-color: white;
